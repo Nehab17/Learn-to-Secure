@@ -3,7 +3,7 @@
 <h2>Work Distribution</h2>
 
 <li><b><a href="https://github.com/Nehab17/Learn-to-Secure">Neha Bhosale</a></b></li>
-   
+   <ol>
         <li>Prototype Design</li>
         <li>Mongo DB Database Design and Query Writing</li>
         <li>Backend logic handling and integration with frontend</li>
