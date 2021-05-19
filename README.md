@@ -8,14 +8,9 @@
         <li>Mongo DB Database Design and Query Writing</li>
         <li>Backend logic handling and integration with frontend</li>
         <li>Content inclusion in <em>advanced.html</em> web page</li>
- 
-
-
         <li>Front End pages creation and Design with CSS/Bootsrap with the help of prototypes</li>
         <li>Look for a better cloud hosting option(AWS, GCP, Digital Ocean etc.)</li>
         <li>Content inclusion in <em>basic.html</em> web page</li>
-
-
         <li>Look for deployment with Heroku</li>
         <li>Write unit tests</li>
         <li>Content inclusion in <em>intermediate.html</em> web page</li>
