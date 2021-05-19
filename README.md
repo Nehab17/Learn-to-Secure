@@ -2,7 +2,7 @@
 
 <h2>Work Distribution</h2>
 
-<li><b><a href="https://github.com/sk-sharique">Neha Bhosale</a></b></li>
+<li><b><a href="https://github.com/Nehab17/Learn-to-Secure">Neha Bhosale</a></b></li>
    
         <li>Prototype Design</li>
         <li>Mongo DB Database Design and Query Writing</li>
@@ -20,5 +20,3 @@
         <li>Write unit tests</li>
         <li>Content inclusion in <em>intermediate.html</em> web page</li>
     </ol>
-
-<h1></h1>
